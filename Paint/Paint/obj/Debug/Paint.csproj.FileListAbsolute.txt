@@ -1,0 +1,33 @@
+c:\users\podyplomowe\documents\visual studio 2015\Projects\Paint\Paint\bin\Debug\Paint.exe.config
+c:\users\podyplomowe\documents\visual studio 2015\Projects\Paint\Paint\bin\Debug\Paint.exe
+c:\users\podyplomowe\documents\visual studio 2015\Projects\Paint\Paint\bin\Debug\Paint.pdb
+c:\users\podyplomowe\documents\visual studio 2015\Projects\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+c:\users\podyplomowe\documents\visual studio 2015\Projects\Paint\Paint\obj\Debug\Paint.Form1.resources
+c:\users\podyplomowe\documents\visual studio 2015\Projects\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+c:\users\podyplomowe\documents\visual studio 2015\Projects\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+c:\users\podyplomowe\documents\visual studio 2015\Projects\Paint\Paint\obj\Debug\Paint.exe
+c:\users\podyplomowe\documents\visual studio 2015\Projects\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\obj\Debug\Paint.UserControl1.resources
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\obj\Debug\Paint.oProgramiePaint.resources
+C:\Users\M3\Desktop\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\M3\Desktop\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\M3\Desktop\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\M3\Desktop\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\M3\Desktop\Paint\Paint\obj\Debug\Paint.oProgramiePaint.resources
+C:\Users\M3\Desktop\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\M3\Desktop\Paint\Paint\obj\Debug\Paint.UserControl1.resources
+C:\Users\M3\Desktop\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\M3\Desktop\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\M3\Desktop\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\M3\Desktop\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\M3\Desktop\Paint\Paint\obj\Debug\Paint.Paint.resources

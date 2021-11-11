@@ -1,0 +1,9 @@
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\bin\Release\Paint.exe.config
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\bin\Release\Paint.exe
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\obj\Release\Paint.AboutBox1.resources
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\obj\Release\Paint.Form1.resources
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\obj\Release\Paint.Properties.Resources.resources
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\obj\Release\Paint.UserControl1.resources
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\obj\Release\Paint.csproj.GenerateResource.cache
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\obj\Release\Paint.csproj.CoreCompileInputs.cache
+C:\Users\En\Desktop\Studia Magisterskie 1 rok semestr 2\Programowanie w C#\Paint\Paint\obj\Release\Paint.pdb
